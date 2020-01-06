@@ -9,6 +9,9 @@ The code leaves a lot to be desired, I am still learning.
 For more info for V1.42W
 https://wp.me/Pa5TU8-2cU
 
+My blog page about development of V1.42W:
+https://stevepython.wordpress.com/2020/01/06/bbc-radio-downloader-update
+
 Page about V1.3:
 https://stevepython.wordpress.com/2019/11/16/python-bbc-radio-download
 
